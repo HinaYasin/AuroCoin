@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/AuroCoin/static/css/main.ed018a25.css",
+    "main.js": "/AuroCoin/static/js/main.b15a270b.js",
+    "static/media/Engineering-Reports.pdf": "/AuroCoin/static/media/Engineering-Reports.32edc2d1830bb4a08c11.pdf",
+    "static/media/Photos 71-AL-100.pdf": "/AuroCoin/static/media/Photos 71-AL-100.ddca9da60407d4602483.pdf",
+    "static/media/Reliance on Other Experts1.pdf": "/AuroCoin/static/media/Reliance on Other Experts1.73d6fa0115b27d881662.pdf",
+    "static/media/AMC Corp Cert.pdf": "/AuroCoin/static/media/AMC Corp Cert.4de1483b8956e48ae5ff.pdf",
+    "static/media/Metallurgical Studies.pdf": "/AuroCoin/static/media/Metallurgical Studies.9382f63abb537b892b22.pdf",
+    "static/media/AuroCoin White-Papers-m.pdf": "/AuroCoin/static/media/AuroCoin White-Papers-m.ce95ac733382b2122bc0.pdf",
+    "static/media/dede.gif": "/AuroCoin/static/media/dede.96416b580c98dde98a05.gif",
+    "static/media/mine.gif": "/AuroCoin/static/media/mine.a529cef3d1c7e4c6a1c0.gif",
+    "static/media/headbg2.jpg": "/AuroCoin/static/media/headbg2.dde07ca047bd0ba378c0.jpg",
+    "static/media/Combined White Pages June 2023.pdf": "/AuroCoin/static/media/Combined White Pages June 2023.8deff12baa1b59b58304.pdf",
+    "static/media/coin.png": "/AuroCoin/static/media/coin.2085d4b2030f97046040.png",
+    "static/media/coin1.png": "/AuroCoin/static/media/coin1.f053b04932d13a0865a4.png",
+    "static/media/phone.png": "/AuroCoin/static/media/phone.8ee95916a5db42f30247.png",
+    "static/media/allocation.png": "/AuroCoin/static/media/allocation.33d647919a2da7fb8325.png",
+    "static/media/solution.png": "/AuroCoin/static/media/solution.2dfaf6ec5520a507bf21.png",
+    "static/media/bg4.jpg": "/AuroCoin/static/media/bg4.056fe0d45cb578962fb9.jpg",
+    "static/media/Auro Coin Concept.pdf": "/AuroCoin/static/media/Auro Coin Concept.c6118281a57ecc0da8fb.pdf",
+    "static/media/pattern.png": "/AuroCoin/static/media/pattern.2be3aa0c318732a94bac.png",
+    "static/media/shape1.png": "/AuroCoin/static/media/shape1.99b9ec2d6d15132d8bec.png",
+    "index.html": "/AuroCoin/index.html",
+    "main.ed018a25.css.map": "/AuroCoin/static/css/main.ed018a25.css.map",
+    "main.b15a270b.js.map": "/AuroCoin/static/js/main.b15a270b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed018a25.css",
+    "static/js/main.b15a270b.js"
+  ]
+}
