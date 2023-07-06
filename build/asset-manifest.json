@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d34adea6.css",
+    "main.js": "/static/js/main.abd9800c.js",
+    "static/media/Engineering-Reports.pdf": "/static/media/Engineering-Reports.32edc2d1830bb4a08c11.pdf",
+    "static/media/Photos 71-AL-100.pdf": "/static/media/Photos 71-AL-100.ddca9da60407d4602483.pdf",
+    "static/media/Reliance on Other Experts1.pdf": "/static/media/Reliance on Other Experts1.73d6fa0115b27d881662.pdf",
+    "static/media/AMC Corp Cert.pdf": "/static/media/AMC Corp Cert.4de1483b8956e48ae5ff.pdf",
+    "static/media/Metallurgical Studies.pdf": "/static/media/Metallurgical Studies.9382f63abb537b892b22.pdf",
+    "static/media/AuroCoin White-Papers-m.pdf": "/static/media/AuroCoin White-Papers-m.ce95ac733382b2122bc0.pdf",
+    "static/media/dede.gif": "/static/media/dede.96416b580c98dde98a05.gif",
+    "static/media/mine.gif": "/static/media/mine.a529cef3d1c7e4c6a1c0.gif",
+    "static/media/headbg2.jpg": "/static/media/headbg2.dde07ca047bd0ba378c0.jpg",
+    "static/media/Combined White Pages June 2023.pdf": "/static/media/Combined White Pages June 2023.8deff12baa1b59b58304.pdf",
+    "static/media/coin.png": "/static/media/coin.2085d4b2030f97046040.png",
+    "static/media/coin1.png": "/static/media/coin1.f053b04932d13a0865a4.png",
+    "static/media/phone.png": "/static/media/phone.8ee95916a5db42f30247.png",
+    "static/media/allocation.png": "/static/media/allocation.33d647919a2da7fb8325.png",
+    "static/media/solution.png": "/static/media/solution.2dfaf6ec5520a507bf21.png",
+    "static/media/bg4.jpg": "/static/media/bg4.056fe0d45cb578962fb9.jpg",
+    "static/media/Auro Coin Concept.pdf": "/static/media/Auro Coin Concept.c6118281a57ecc0da8fb.pdf",
+    "static/media/pattern.png": "/static/media/pattern.2be3aa0c318732a94bac.png",
+    "static/media/shape1.png": "/static/media/shape1.99b9ec2d6d15132d8bec.png",
+    "index.html": "/index.html",
+    "main.d34adea6.css.map": "/static/css/main.d34adea6.css.map",
+    "main.abd9800c.js.map": "/static/js/main.abd9800c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34adea6.css",
+    "static/js/main.abd9800c.js"
+  ]
+}
